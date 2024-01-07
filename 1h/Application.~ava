@@ -1,0 +1,4 @@
+import javafx.application.Application; //aplikacia typu abstract
+import javafx.stage.Stage;  // podium
+import javafx.scene.Scene; // scena
+import javafx.scene.layout; //
